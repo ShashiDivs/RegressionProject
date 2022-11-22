@@ -2,3 +2,5 @@ numpy
 pandas
 nutebook
 matplotlib
+mkdocs-material
+-e .

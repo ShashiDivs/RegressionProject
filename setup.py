@@ -14,8 +14,8 @@ setup(
     name = SRC_REPO,
     version = "0.0.1",
     author=AUTHOR,
-    author_email='shashipolity@gmail.com'
-    description='This is our first release',
+    author_email='shashipolity@gmail.com',
+    description ='This is our first release',
     long_description= long_decsription,
     url = f"https://github.com/{ShashiDivs}/{REPO_NAME }",
     packages=[SRC_REPO ],
